@@ -2,4 +2,4 @@
 
 ## coding girl
 
-![codegirl](./image/codegirl.png)
+![codegirl](/home/n23030/Boxes/Python/image/codegirl.png)
