@@ -1,3 +1,3 @@
 # paiza1
 
-## coding girl![codegirl.png](/image/codegirl.png)
+## coding girl![codegirl](/home/n23030/Boxes/Python/image/codegirl.png)
