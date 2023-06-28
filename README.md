@@ -5,9 +5,8 @@
 ![codegirl](./image/codegirl.png)
 
 ## 恋するハッカソン
-### short
+### Heir
 - [short](./code/short.py)
-### long
 - [long](./code/long.py)
 ![hakkason](./image/hakkason.png)
 
