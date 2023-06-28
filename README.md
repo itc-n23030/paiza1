@@ -1,3 +1,5 @@
 # paiza1
 
-## coding girl![codegirl](./image.codinggirl.png)
+## coding girl
+
+![codegirl](./image/codinggirl.png)
