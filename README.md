@@ -12,7 +12,7 @@
 ### eye
 - [tareme](./code/tare.py)
 - [turime](./code/turi.py)
-- [megane](./code/osage.py)
+- [megane](./code/glass.py)
 ## プログラミング彼女![kanojo](./image/kanojo.png)
 ### Heir
 - [short](./code/shortheir.py)
