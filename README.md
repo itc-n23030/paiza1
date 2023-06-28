@@ -6,9 +6,9 @@
 
 ## 恋するハッカソン
 ### short
-![short](./code/short.py)
+- [short](./code/short.py)
 ### long
-![long](./code/long.py)
+- [long](./code/long.py)
 ![hakkason](./image/hakkason.png)
 
 ## プログラミング彼女
