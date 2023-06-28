@@ -8,6 +8,7 @@
 - [long](./code/long.py)
 - [pony](./code/pony.py)
 - [twin](./code/twin.py)
+- [osage](./code/osage.py)
 ## プログラミング彼女![kanojo](./image/kanojo.png)
 ### Heir
 - [short](./code/shortheir.py)
