@@ -19,6 +19,7 @@
 ### special
 - [maiku](./code/microphone.py)
 - [katyusya](./code/katyusya.py)
+- [yukata](./code/yukata.py)
 ## プログラミング彼女![kanojo](./image/kanojo.png)
 ### Heir
 - [short](./code/shortheir.py)
