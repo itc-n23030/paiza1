@@ -13,6 +13,12 @@
 - [tareme](./code/tare.py)
 - [turime](./code/turi.py)
 - [megane](./code/glass.py)
+### clothes
+- [cute](./code/cute.py)
+- [sexy](./code/sexy.py)
+### special
+- [maiku](./code/microphone.py)
+- [katyusya](./code/katyusya.py)
 ## プログラミング彼女![kanojo](./image/kanojo.png)
 ### Heir
 - [short](./code/shortheir.py)
