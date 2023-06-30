@@ -19,12 +19,16 @@
 ### special
 - [maiku](./code/microphone.py)
 - [katyusya](./code/katyusya.py)
-- [yukata](./code/yukata.py)
 ## プログラミング彼女![kanojo](./image/kanojo.png)
 ### Heir
 - [short](./code/shortheir.py)
 - [long](./code/longheir.py)
 - [pony](./code/ponytale.py)
 - [twin](./code/twintale.py)
+### clothes
+- [se-ra-huku](./code/sailer.py)
+- [cardigan](./code/cardigan.py)
 ### eye
 - [turime](./code/turime.py)
+### others
+- [mizugi](./code/mizugi2.py)
