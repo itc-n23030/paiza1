@@ -31,4 +31,5 @@
 ### eye
 - [turime](./code/turime.py)
 ### others
+- [nekomimi](./code/nekomimi.py)
 - [mizugi](./code/mizugi2.py)
